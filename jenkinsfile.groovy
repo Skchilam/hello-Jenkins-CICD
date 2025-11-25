@@ -1,4 +1,4 @@
-cat > Jenkinsfile << 'EOF'
+cat > Jenkinsfile.groovy << 'EOF'
 pipeline {
     agent any
 
